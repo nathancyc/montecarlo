@@ -1,4 +1,4 @@
-### Overview
+# Overview
 Performs Monte Carlo Simulations on real stock market data to identify the optimal investment portfolio based on risk and return. The program outputs the Efficient Frontier and determines the portfolio with the highest Sharpe Ratio (best risk-adjusted return) and the minimum volatility portfolio (least risky portfolio).
 
 ## Feature
