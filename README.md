@@ -36,7 +36,7 @@ Run the script from the ```src/``` directory
 python src/main.py
 ```
 
-# Example Output:
+## Example Output:
 ```bash
 ----- Best Portfolio (Highest Sharpe Ratio) -----
 Annualized Return: 35.52%
