@@ -9,8 +9,8 @@ Performs Monte Carlo Simulations on real stock market data to identify the optim
 * Interactive CLI
 
 ## To Do
-[] Add command-line option for easier access
-[] Clean up and modularise code
+- [ ] Add command-line option for easier access
+- [ ] Clean up and modularise code
 
 ## Installation
 1. Clone the repository:
